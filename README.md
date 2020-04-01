@@ -11,5 +11,5 @@
 
 ## Screenshots
 
-![image](http://tusharsharma.in/images/user-joined.png){ width=50% }
-![image](http://tusharsharma.in/images/user-messages.png){ width=50% }
+![image](http://tusharsharma.in/images/user-joined.png)
+![image](http://tusharsharma.in/images/user-messages.png)
